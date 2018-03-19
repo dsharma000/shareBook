@@ -1,0 +1,29 @@
+{
+	"book-1": {
+		"ISBN-10": "8173717117",
+		"title": "Object Oriented Analysis Design & Implementation",
+		"author": "Brahma Dathan^Sarnath Ramnath",
+		"publisher": "Publisher",
+		"language": "English",
+		"price": "425",
+		"currency": "INR"
+	},
+	"book-2": {
+		"ISBN-10": "0070265127",
+		"title": "OBJECT ORIENTED SYSTEMS DEVELOPMENT",
+		"author": "BAHRAMI",
+		"publisher": "MHE 2012",
+		"language": "English",
+		"price": "330",
+		"currency": "INR"
+	},
+	"book-3": {
+		"ISBN-10": "0070265128",
+		"title": "Functional programming",
+		"author": "Rakesh Sawan",
+		"publisher": "MHE 2013",
+		"language": "English",
+		"price": "340",
+		"currency": "INR"
+	}
+}
